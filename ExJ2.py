@@ -3,7 +3,8 @@
 a=12
 b=20
 c=a+b
-print(c)
+print("Sum of 12 and 20 is",c)
+print("Welcome to Jenkins")
 
 
 
